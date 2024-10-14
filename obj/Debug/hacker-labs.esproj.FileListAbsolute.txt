@@ -1,0 +1,2 @@
+C:\Users\Nick\source\repos\Hacker-Labs\Hacker-Labs\obj\Debug\hacker-labs.esproj.SuggestedBindingRedirects.cache
+C:\Users\Nick\source\repos\Hacker-Labs\Hacker-Labs\obj\Debug\hacker-labs.esproj.CoreCompileInputs.cache
